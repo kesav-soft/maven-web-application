@@ -20,7 +20,6 @@
 		kesav Software Solutions, 
 		Appannapalli,
 		Chilamathur,
-		+91-9980923226,
 		reddyskesava143@gmail.com
 		<br>
 		<a href="mailto:KESAV@gmail.com">Mail to kesav Technologies</a>
