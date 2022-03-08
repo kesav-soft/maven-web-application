@@ -17,13 +17,13 @@
 		<img src="images/mithunlogo.jpg" alt="" width="100">
 	</span>
 	<span style="font-weight: bold;">
-		Mithun Software Solutions, 
-		Martha Halli,
-		Bangalore,
+		kesav Software Solutions, 
+		Appannapalli,
+		Chilamathur,
 		+91-9980923226,
-		devopstrainingbr@gmail.com
+		reddyskesava143@gmail.com
 		<br>
-		<a href="mailto:devopstrainingblr@gmail.com">Mail to Mithun Technologies</a>
+		<a href="mailto:devopstrainingblr@gmail.com">Mail to kesav Technologies</a>
 	</span>
 </div>
 <hr>
