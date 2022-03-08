@@ -23,15 +23,15 @@
 		+91-9980923226,
 		reddyskesava143@gmail.com
 		<br>
-		<a href="mailto:devopstrainingblr@gmail.com">Mail to kesav Technologies</a>
+		<a href="mailto:KESAV@gmail.com">Mail to kesav Technologies</a>
 	</span>
 </div>
 <hr>
 	<p> Service : <a href="services/employee/getEmployeeDetails">Get Employee Details </p>
 <hr>
 <hr>
-<p align=center>Mithun Technologies - Consultant, Training, Development Center.</p>
-<p align=center><small>Copyrights 2021 by <a href="http://mithuntechnologies.com/">Mithun Technologies</a> </small></p>
+<p align=center>KESAV TECHNOLOGIES..</p>
+<p align=center><small>Copyrights 2021 by <a href="http://KESAVTECH.com/">KESAVTECH</a> </small></p>
 
 </body>
 </html>
